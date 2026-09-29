@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# Colton Coey
-
 </div>
 
 
