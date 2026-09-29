@@ -24,7 +24,7 @@ A simulated UAV system that autonomously explores an unknown environment, builds
 
 **Technologies:** ROS 2 · PX4 · Gazebo · Nav2 · SLAM · YOLO · Python
 
-[View Repository](https://github.com/Dark2Darkk/Autonomous-UAV-Search-Simulator)
+[View Repository](https://github.com/colecoey/Autonomous-UAV-Search-Simulator)
 
 ---
 
