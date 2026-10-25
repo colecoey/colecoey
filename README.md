@@ -6,25 +6,25 @@
 
 </div>
 
-
-
 ## About
 
-Computer Science student interested in software engineering, systems, and data.
+Computer Science student focused on data analysis, business intelligence, and reporting.
 
-I have experience working with Python, C++, SQL, Linux, Power BI, ETL systems, and software development tools.
+I work with Excel, SQL, Python, and Power BI to clean data, explore trends, and build dashboards. I am interested in using data to answer business questions and explain what the results mean.
 
 ---
 
 ## Featured Project
 
-### Autonomous UAV Search Simulator
+### Olist E-Commerce Sales & Delivery Performance
 
-A simulated UAV system that autonomously explores an unknown environment, builds a map using lidar, avoids obstacles, and searches for a human target using computer vision.
+An Excel analysis of Brazilian e-commerce data covering sales, delivery performance, and customer reviews. The dashboard includes monthly sales trends, top product categories, late deliveries by state, and review scores by delivery performance.
 
-**Technologies:** ROS 2 · PX4 · Gazebo · Nav2 · SLAM · YOLO · Python
+I used Power Query to prepare the data and Power Pivot to build the model and DAX measures. The project also documents data quality issues, validation checks, and the limits of the findings.
 
-[View Repository](https://github.com/colecoey/Autonomous-UAV-Search-Simulator)
+**Tools:** Excel · Power Query · Power Pivot · DAX · PivotTables · PivotCharts
+
+[View Repository](https://github.com/colecoey/ProfitabilityAnalysis)
 
 ---
 
@@ -36,7 +36,7 @@ A simulated UAV system that autonomously explores an unknown environment, builds
   <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
-SQL
+SQL · Python for data analysis · C++ · Java
 
 ### Tools & Technologies
 
@@ -44,14 +44,18 @@ SQL
   <img src="https://skillicons.dev/icons?i=git,linux,vscode,opencv" />
 </p>
 
-Power BI · SQL Server · ROS 2 · PX4 · Gazebo · ETL
+Excel · Power Query · Power Pivot · DAX · Power BI · SQL Server · ETL
+
+### Data Analysis
+
+Data cleaning · Data validation · Data modeling · Dashboard development · Trend analysis · Reporting
 
 ---
 
 ## Interests
 
-- Software engineering
-- Systems programming
-- C++
-- Aerospace and defense technology
-- Data and simulation
+- Data analysis and business intelligence
+- Sales and operational performance
+- Data quality and reliable reporting
+- Aerospace and defense data
+- Simulation and data visualization
